@@ -67,6 +67,11 @@ body {
     height: 100vh;
 }
 
+.service .card-body i {
+    font-style: 50px;
+}
+
+
 /* Responsive Css */
 
 @media only screen and (min-width:768px) and (max-width: 991px){
