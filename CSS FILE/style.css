@@ -67,8 +67,8 @@ body {
     height: 100vh;
 }
 
-.service .card-body i {
-    font-style: 50px;
+.services .card-body i {
+    font-size: 50px;
 }
 
 
